@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751263389062",
+    "project_id": "shoptstag",
+    "storage_bucket": "shoptstag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751263389062:android:b88ec49b4bb06745188807",
+        "android_client_info": {
+          "package_name": "com.shopstag.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751263389062-m9qhv4t8cp84e6rjraefi2moqes8pu5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.flutter_sixvalley_ecom",
+            "certificate_hash": "9b78ad7e29f541161ecf34aa189526fb0276a17f"
+          }
+        },
+        {
+          "client_id": "751263389062-s54nc1rukd46lhn280ekq5h0tod5q7h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtu0QrB7GKccG2IlnCTC-vD7q-Auh3sSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751263389062-s54nc1rukd46lhn280ekq5h0tod5q7h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
